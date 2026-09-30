@@ -1,0 +1,7 @@
+{
+  "name": "mi-pro",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
